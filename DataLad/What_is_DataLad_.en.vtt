@@ -1,0 +1,120 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.920 --> 00:00:12.000
+What is DataLad? Everyone needs data! Data are&nbsp;
+indispensable for learning, understanding, and&nbsp;&nbsp;
+
+00:00:12.000 --> 00:00:19.520
+decision making. Working with data responsibly for&nbsp;
+the benefit of our communities and the environment&nbsp;&nbsp;
+
+00:00:20.160 --> 00:00:26.880
+requires us to bring together diverse expertise&nbsp;
+and to share findings in a way that fosters trust&nbsp;&nbsp;
+
+00:00:26.880 --> 00:00:32.400
+in the facts that we base our&nbsp;
+actions on. But how can we achieve&nbsp;&nbsp;
+
+00:00:32.400 --> 00:00:37.600
+this in a world that overwhelms us with&nbsp;
+information and limitless possibilities?&nbsp;&nbsp;
+
+00:00:39.280 --> 00:00:46.720
+Here DataLad can help by recording and documenting&nbsp;
+the collaborative process of distilling knowledge&nbsp;&nbsp;
+
+00:00:46.720 --> 00:00:55.520
+from data, such that it becomes more accessible&nbsp;
+and ultimately verifiable. Any investigation&nbsp;&nbsp;
+
+00:00:55.520 --> 00:01:03.840
+is built on facts. Many of them are digital.&nbsp;
+They come in text documents, program code,&nbsp;&nbsp;
+
+00:01:04.400 --> 00:01:12.240
+and binary files such as images. In our connected&nbsp;
+world, files cannot only be on our own computers,&nbsp;&nbsp;
+
+00:01:12.240 --> 00:01:17.760
+but also at many different cloud&nbsp;
+services. Wherever data lives,&nbsp;&nbsp;
+
+00:01:17.760 --> 00:01:25.440
+DataLad can keep track of them to do this! It&nbsp;
+provides a data structure, the data set. It can&nbsp;&nbsp;
+
+00:01:25.440 --> 00:01:33.520
+reference the precise identity and availability&nbsp;
+of ANY digital object. Importantly, it can record&nbsp;&nbsp;
+
+00:01:33.520 --> 00:01:39.840
+how exactly data and program code are used&nbsp;
+to derive the results of an investigation.
+
+00:01:42.640 --> 00:01:50.400
+DataLad can clone a dataset to another location&nbsp;
+on a different computer. Like the original dataset&nbsp;&nbsp;
+
+00:01:50.400 --> 00:01:56.080
+each clone is completely self-contained.&nbsp;
+The information in a dataset can be used&nbsp;&nbsp;
+
+00:01:56.080 --> 00:02:01.360
+to retrieve all data at the precise version&nbsp;
+that is needed, either from the internet&nbsp;&nbsp;
+
+00:02:01.360 --> 00:02:09.840
+or from other clones of a dataset. The process&nbsp;
+records in a dataset enable reproducing results&nbsp;&nbsp;
+
+00:02:09.840 --> 00:02:15.440
+by a collaborator and make it possible to&nbsp;
+verify exactly what was done to get them.&nbsp;&nbsp;
+
+00:02:17.440 --> 00:02:24.000
+Dataset content looks just like any other&nbsp;
+directory on a computer. But datasets can&nbsp;&nbsp;
+
+00:02:24.000 --> 00:02:30.400
+also be nested to form reusable modular units&nbsp;
+that can be assembled into bigger projects.&nbsp;&nbsp;
+
+00:02:32.240 --> 00:02:38.720
+With these basic principles DataLad can&nbsp;
+support a diversity of tasks, whether that is&nbsp;&nbsp;
+
+00:02:38.720 --> 00:02:44.640
+editing a video clip by yourself or collaborative&nbsp;
+research on the world's most powerful computers.&nbsp;&nbsp;
+
+00:02:46.480 --> 00:02:53.200
+Bringing structure to the data flood is no easy&nbsp;
+task. But we are a community of people working&nbsp;&nbsp;
+
+00:02:53.200 --> 00:03:00.160
+hard to make the tools more accessible every day.&nbsp;
+Online training resources offer a convenient start&nbsp;&nbsp;
+
+00:03:00.160 --> 00:03:07.520
+to working with DataLad. A comprehensive handbook&nbsp;
+is your guide for a deep dive into all the&nbsp;&nbsp;
+
+00:03:07.520 --> 00:03:16.320
+features DataLad has to offer. DataLad is free&nbsp;
+and open source software. Anyone is free to use&nbsp;&nbsp;
+
+00:03:16.320 --> 00:03:21.920
+for any purpose. It has been adapted to&nbsp;
+facilitate scientific collaborations,&nbsp;&nbsp;
+
+00:03:22.560 --> 00:03:29.160
+working with the world's largest health data&nbsp;
+sets, and to enable reproducible research. [Music]&nbsp;&nbsp;
+
+00:03:31.440 --> 00:03:45.840
+Join us to help better&nbsp;
+serve even more communities!
+
