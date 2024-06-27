@@ -20,6 +20,6 @@ for f in "$@"; do
     fi
     url=$(git annex whereis --in web "$f" | awk '/^ *web:/{print $2;}')
     echo "$fbase: getting some for $url"
-    yt-dlp --write-subs --write-auto-subs -k --sub-lang=en,ua,ru --skip-download -o "$fbase" "$url" && status=ok || status=error 
+    yt-dlp --write-subs --write-auto-subs -k --sub-lang=en --skip-download -o "$fbase" "$url" && status=ok || status=error 
     echo -e "$f\t$url\t$(date)\t$status" >> "$subs_done"
 done
