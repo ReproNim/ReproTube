@@ -1,3 +1,6 @@
 [submodule "ReproNim"]
 	path = ReproNim
 	url = ./ReproNim
+[submodule "ABCD-ReproNim_Course"]
+	path = ABCD-ReproNim_Course
+	url = ./ABCD-ReproNim_Course
