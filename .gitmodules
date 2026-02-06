@@ -4,3 +4,6 @@
 [submodule "ABCD-ReproNim_Course"]
 	path = ABCD-ReproNim_Course
 	url = ./ABCD-ReproNim_Course
+[submodule "DataLad"]
+	path = DataLad
+	url = ./DataLad
