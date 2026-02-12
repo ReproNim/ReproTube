@@ -11,3 +11,7 @@
 	path = AFNIBootcamp
 	url = ./AFNIBootcamp
 	datalad-id = efbdc8e1-25c7-44e8-a31d-2e2ca639edf4
+[submodule "OpenMinds"]
+	path = OpenMinds_Pitt
+	url = ./OpenMinds
+	datalad-id = 37808eda-83d9-4efb-96f0-d61a40ac621a
