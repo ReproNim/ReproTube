@@ -7,3 +7,7 @@
 [submodule "DataLad"]
 	path = DataLad
 	url = ./DataLad
+[submodule "AFNIBootcamp"]
+	path = AFNIBootcamp
+	url = ./AFNIBootcamp
+	datalad-id = efbdc8e1-25c7-44e8-a31d-2e2ca639edf4
